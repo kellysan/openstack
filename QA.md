@@ -88,3 +88,4 @@ disabled_reason: NULL
 ```sql
 delete from nova.services where host = 'node-11.domain.tld'
 ```
+** 1、测试**
